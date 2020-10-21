@@ -111,9 +111,6 @@ lz4==3.1.0
 Markdown==3.1.1
 mccabe==0.6.1
 missingno==0.4.2
-mkl-fft==1.1.0
-mkl-random==1.1.0
-mkl-service==2.3.0
 mlxtend==0.17.2
 mock==4.0.2
 more-itertools==8.4.0
